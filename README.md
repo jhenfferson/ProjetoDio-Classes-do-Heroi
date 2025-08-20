@@ -1,4 +1,4 @@
-# DESAFIO DA CALCULADORA DE PARTIDAS RANKEADAS 
+# DESAFIO CLASSES DE UM HERÓI
 
 Projeto feito para o desafio da DIO que pede a criação de um código onde o usuário final poderá ver o seu herói classificado de acordo com sua classe.
 
